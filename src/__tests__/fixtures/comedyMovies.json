@@ -1,0 +1,166 @@
+[
+  {
+    "Genre_id": 2,
+    "Title": "Bruce Almighty",
+    "Year": "2003",
+    "Rated": "PG-13",
+    "Released": "23 May 2003",
+    "Runtime": "101 min",
+    "Genre": "Comedy, Fantasy",
+    "Director": "Tom Shadyac",
+    "Writer": "Steve Koren (story), Mark O'Keefe (story), Steve Koren (screenplay), Mark O'Keefe (screenplay), Steve Oedekerk (screenplay)",
+    "Actors": "Jim Carrey, Morgan Freeman, Jennifer Aniston, Philip Baker Hall",
+    "Plot": "A guy who complains about God too often is given almighty powers to teach him how difficult it is to run the world.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "7 wins & 9 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzMyZDhiZDUtYWUyMi00ZDQxLWE4NDQtMWFlMjI1YjVjMjZiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "48%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "46/100"
+      }
+    ],
+    "Metascore": "46",
+    "imdbRating": "6.8",
+    "imdbVotes": "372,120",
+    "imdbID": "tt0315327",
+    "Type": "movie",
+    "DVD": "01 Dec 2015",
+    "BoxOffice": "$242,829,261",
+    "Production": "Spyglass Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Genre_id": 2,
+    "Title": "Bad Boys for Life",
+    "Year": "2020",
+    "Rated": "R",
+    "Released": "17 Jan 2020",
+    "Runtime": "124 min",
+    "Genre": "Action, Comedy, Crime, Thriller",
+    "Director": "Adil El Arbi, Bilall Fallah",
+    "Writer": "Peter Craig (story by), Joe Carnahan (story by), Chris Bremner (screenplay by), Peter Craig (screenplay by), Joe Carnahan (screenplay by), George Gallo (based on characters created by)",
+    "Actors": "Will Smith, Martin Lawrence, Vanessa Hudgens, Alexander Ludwig",
+    "Plot": "Miami detectives Mike Lowrey and Marcus Burnett must face off against a mother-and-son pair of drug lords who wreak vengeful havoc on their city.",
+    "Language": "English, Spanish",
+    "Country": "USA, Mexico",
+    "Awards": "2 wins & 12 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWU0MGYwZWQtMzcwYS00NWVhLTlkZTAtYWVjOTYwZTBhZTBiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "77%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "59/100"
+      }
+    ],
+    "Metascore": "59",
+    "imdbRating": "6.6",
+    "imdbVotes": "131,495",
+    "imdbID": "tt1502397",
+    "Type": "movie",
+    "DVD": "31 Mar 2020",
+    "BoxOffice": "$206,305,244",
+    "Production": "2.0 Entertainment, Jerry Bruckheimer Films, Columbia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Genre_id": 2,
+    "Title": "Sausage Party",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "12 Aug 2016",
+    "Runtime": "89 min",
+    "Genre": "Animation, Adventure, Comedy, Fantasy",
+    "Director": "Greg Tiernan, Conrad Vernon",
+    "Writer": "Kyle Hunter (screenplay by), Ariel Shaffir (screenplay by), Seth Rogen (screenplay by), Evan Goldberg (screenplay by), Seth Rogen (story by), Evan Goldberg (story by), Jonah Hill (story by)",
+    "Actors": "Alistair Abell, Iris Apatow, Sugar Lyn Beard, Michael Cera",
+    "Plot": "A sausage strives to discover the truth about his existence.",
+    "Language": "English",
+    "Country": "USA, Canada",
+    "Awards": "1 win & 24 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjkxOTk1MzY4MF5BMl5BanBnXkFtZTgwODQzOTU5ODE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "82%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "66/100"
+      }
+    ],
+    "Metascore": "66",
+    "imdbRating": "6.1",
+    "imdbVotes": "176,325",
+    "imdbID": "tt1700841",
+    "Type": "movie",
+    "DVD": "04 Nov 2016",
+    "BoxOffice": "$97,685,686",
+    "Production": "Sony Music, Point Grey, Annapurna Pictures, Columbia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Genre_id": 2,
+    "Title": "A Dog's Purpose",
+    "Year": "2017",
+    "Rated": "PG",
+    "Released": "27 Jan 2017",
+    "Runtime": "100 min",
+    "Genre": "Adventure, Comedy, Drama, Family, Fantasy",
+    "Director": "Lasse Hallström",
+    "Writer": "W. Bruce Cameron (screenplay by), Cathryn Michon (screenplay by), Audrey Wells (screenplay by), Maya Forbes (screenplay by), Wallace Wolodarsky (screenplay), W. Bruce Cameron (based on the novel by)",
+    "Actors": "Josh Gad, Dennis Quaid, Peggy Lipton, Bryce Gheisar",
+    "Plot": "A dog looks to discover his purpose in life over the course of several lifetimes and owners.",
+    "Language": "English",
+    "Country": "USA, India",
+    "Awards": "3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDQ4NjkxNzgzN15BMl5BanBnXkFtZTgwMjAzODQ4OTE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "35%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "43/100"
+      }
+    ],
+    "Metascore": "43",
+    "imdbRating": "7.2",
+    "imdbVotes": "65,912",
+    "imdbID": "tt1753383",
+    "Type": "movie",
+    "DVD": "18 Apr 2017",
+    "BoxOffice": "$64,508,620",
+    "Production": "Reliance Entertainment, Universal Pictures, Walden Media, Pariah",
+    "Website": "N/A",
+    "Response": "True"
+  }
+]
